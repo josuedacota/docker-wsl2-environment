@@ -28,7 +28,7 @@ El sistema se compone de 5 servicios interconectados a través de redes virtuale
    ```bash
    git clone [https://github.com/josuedacota/docker-wsl2-environment.git](https://github.com/josuedacota/docker-wsl2-environment.git)
    cd docker-wsl2-environment
-```
+
 	
 2. **Configurar las Variables de Entorno:**
 Copia la plantilla de ejemplo y configura tus contraseñas:
